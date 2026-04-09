@@ -574,7 +574,6 @@ endif
 # Sensors
 PRODUCT_PACKAGES += \
     vendor.lineage.oplus_als.service \
-    android.hardware.sensors-service.multihal \
     android.hardware.sensors-service.oplus-multihal \
     sensors.dynamic_sensor_hal \
     sensors.qsh_wrapper
